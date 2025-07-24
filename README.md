@@ -1,12 +1,12 @@
-<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">🔰WELCOME TO DML-MD🔰</h2>
-<h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot for Tanzania</h3>
+<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">WELCOME TO StackGPT</h2>
+<h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;MEET+DML-MD+🤖;ADVANCED+WHATSAPP+BOT+EXPERIENCE+⚡;MADE+WITH+PASSION+BY+DML+💻;OFFICIALLY+TANZANIAN+BOT+🎉" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;MEET+StackGPT+🤖;ADVANCED+WHATSAPP+BOT+EXPERIENCE+⚡;MADE+WITH+PASSION+BY+Codex+Official+Tech+💻;OFFICIALLY+AI+BOT+🎉" alt="Typing Animation">
 </p>
 
 <p align="center">
-  <img alt="DML-MD" width="700" height="300" src="https://files.catbox.moe/vcdwmp.jpg">
+  <img alt="StackGPT" width="700" height="300" src="https://files.catbox.moe/l28qvi.jpg">
 </p>
 
 
@@ -29,7 +29,7 @@
 Help support the project by clicking the buttons below. Fork it to your GitHub and give it a star!
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
-  <a href='https://github.com/MLILA17/DML-MD/fork' target="_blank">
+  <a href='https://github.com/Coded-bot-code/StackGPT-/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
@@ -39,8 +39,8 @@ Help support the project by clicking the buttons below. Fork it to your GitHub a
 
 
 
-[![Fork](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=git)](https://github.com/MLILA17/DML-MD/fork)
-[![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/MLILA17/DML-MD/stargazers)
+[![Fork](https://img.shields.io/github/forks/Coded-bot-code/StackGPT-?label=Fork&style=for-the-badge&logo=git)](https://github.com/Coded-bot-code/StackGPT-/fork)
+[![Star](https://img.shields.io/github/stars/Coded-bot-code/StackGPT-?label=Star&style=for-the-badge&logo=github)](https://github.com/Coded-bot-code/StackGPT-/stargazers)
 
 
 ---
@@ -81,10 +81,7 @@ Easily deploy to Heroku with the button below:
 ## 🌐 Join The Community
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/HflwxRda15o0kRMJwsggcD">
-    <img src="https://img.shields.io/badge/JOIN_WHATSAPP_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
-  </a>
-  <a href="https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C">
+  <a href="https://whatsapp.com/channel/0029VbAuCjELtOj5n8Lv9h3d">
     <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
   </a>
 </p>
