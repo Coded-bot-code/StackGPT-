@@ -1,8 +1,8 @@
 {
-  "name": "DML-MD",
-  "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Daudy Musa",
-  "logo": "https://files.catbox.moe/vcdwmp.jpg",
-  "keywords": ["DML-MD"],
+  "name": "StackGPT",
+  "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Codex Official Tech",
+  "logo": "https://files.catbox.moe/l28qvi.jpg",
+  "keywords": ["StackGPT"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,13 +16,13 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "DML-MD"
+      "value": "StackGPT"
     }, 
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": "/"
     },
     
     "MODE": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY DML-MD 🇹🇿*"
+      "value": "*SEEN YOUR STATUS BY StackGPT 🤖*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "DML-TECH"
+      "value": "StackGPT"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255622220680"
+      "value": "2348029214393"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DML-MD"
+      "value": "StackGPT"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/vcdwmp.jpg"
+      "value": "https://files.catbox.moe/l28qvi.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY DML-TECH*"
+      "value": "*© POWERED BY StackGPT*"
     },
 
       "DELETE_LINKS": {
