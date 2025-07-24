@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['255622220680']
+  const ownerNumber = ['2348029214393']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -68,7 +68,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("DML-MD~", '');
+const sessdata = config.SESSION_ID.replace("StackGPT~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -113,21 +113,21 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `╭─〔 *🇹🇿 DML-MD BOT* 〕  
-├─▸ *Ultra Super Fast Powerfull ⚠️*  
-│     *World Best BOT DML-MD* 
+  let up = `╭─〔 *🤖 StackGPT* 〕  
+├─▸ *Ultra Super Fast Powerful Bot*  
+│     *World Best BOT StackGPT* 
 ╰─➤ *Your Smart WhatsApp Bot is Ready To use ⤵!*  
 
-- *↪ Thank You for Choosing DML-MD!* 
+- *↪ Thank You for Choosing StackGPT!* 
 
 ╭──〔 🔗 *Information* 〕  
 ├─ ↪ Prefix:= ${prefix}
 ├─ 📢 Join Channel:  
-│    https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C  
+│    https://whatsapp.com/channel/0029VbAuCjELtOj5n8Lv9h3d  
 ├─ 🌟 Star the Repo:  
-│    https://github.com/MLILA17/DML-MD  
-╰─🚀 *Powered by Dml*`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/vcdwmp.jpg` }, caption: up })
+│    https://github.com/Coded-bot-code/StackGPT-
+╰─🚀 *Powered by StackGPT*`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/l28qvi.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -166,7 +166,7 @@ const port = process.env.PORT || 9090;
     }
   if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_STATUS_REACT === "true"){
     const jawadlike = await conn.decodeJid(conn.user.id);
-    const emojis = ['❤️', '💸', '😇', '🍂', '💥', '💯', '🔥', '💫', '💎', '💗', '🤍', '🖤', '👀', '🙌', '🙆', '🚩', '🥰', '💐', '😎', '🤎', '✅', '🫀', '🧡', '😁', '😄', '🌸', '🕊️', '🌷', '⛅', '🌟', '🗿', '🇵🇰', '💜', '💙', '🌝', '🖤', '💚'];
+    const emojis = ['❤️', '🤖', '👾', '🍂', '💥', '💯', '🔥', '💫', '💎', '💗', '🤍', '🖤', '👀', '🙌', '🙆', '🚩', '🥰', '💐', '😎', '🤎', '✅', '🫀', '🧡', '😁', '😄', '🌸', '🕊️', '🌷', '⛅', '🌟', '🗿', '🇵🇰', '💜', '💙', '🌝', '🖤', '💚'];
     const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
     await conn.sendMessage(mek.key.remoteJid, {
       react: {
@@ -178,7 +178,7 @@ const port = process.env.PORT || 9090;
   if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_STATUS_REPLY === "true"){
   const user = mek.key.participant
   const text = `${config.AUTO_STATUS_MSG}`
-  await conn.sendMessage(user, { text: text, react: { text: '💜', key: mek.key } }, { quoted: mek })
+  await conn.sendMessage(user, { text: text, react: { text: '🤖', key: mek.key } }, { quoted: mek })
             }
             await Promise.all([
               saveMessage(mek),
@@ -215,7 +215,7 @@ const port = process.env.PORT || 9090;
   }
 
   const udp = botNumber.split('@')[0];
-    const jawadop = ('255785591288', '255713541112', '255785561288');
+    const jawadop = ('2348029214393', '2349115136787');
     
     const ownerFilev2 = JSON.parse(fs.readFileSync('./lib/sudo.json', 'utf-8'));  
     
@@ -783,7 +783,7 @@ if (isBanned) return; // Ignore banned users completely
   }
   
   app.get("/", (req, res) => {
-  res.send("DML MD STARTED ✅");
+  res.send("StackGPT STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
